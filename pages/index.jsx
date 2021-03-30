@@ -1,3 +1,5 @@
+import { h } from "https://deno.land/x/sift@0.1.6/mod.ts";
+
 export default async function indexPage(req) {
     return (<Layout><pre>
 　　　　　　　　うんこ ワッショイ！！ 　　　　　　　　　　
