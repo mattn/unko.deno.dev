@@ -12,5 +12,5 @@ export default async function indexPage(req) {
 　+　　（(　（つ　　　ノ　（つ　　丿　（つ　　つ　)）　　+
 　　　　　　 ヽ　 （　ノ　　（　ヽノ　　　）　）　）
 　　　　　　　（＿）し'　　し（＿）　　（＿）＿）
-</pre></Layout>;
+</pre></Layout>);
 }
