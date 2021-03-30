@@ -13,7 +13,7 @@ export default function Layout({ children }) {
         href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
       />
     </head>
-    <title>うんこっこー<title>
+    <title>うんこっこー</title>
     <body>
       {children}
     </body>
